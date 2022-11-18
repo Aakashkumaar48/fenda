@@ -27,3 +27,10 @@ wat to do
 
 again working on stash 
 
+still working 
+
+<<<<<<< Updated upstream
+i think tis time will work  
+
+=======
+>>>>>>> Stashed changes
